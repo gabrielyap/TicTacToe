@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=
+comment1.target=int\ chooseSquare()
+comment1.text=\ \n\ This\ is\ the\ method\ you'll\ want\ to\ modify\ to\ make\ the\ computer\ choose\ the\ squares\ instead\n\ of\ getting\ input\ from\ a\ human.\ This\ method\ must\ choose\ an\ integer\ between\ 1\ and\ 9,\ and\ it\n\ must\ be\ a\ square\ which\ has\ not\ already\ been\ taken.\ To\ find\ out\ what\ mark\ is\ in\ any\ given\n\ square,\ your\ method\ can\ use\ the\ getMark(squareNum)\ method\ from\ the\ Board\ class.\ This\ method\n\ returns\ a\ string\ with\ an\ "X",\ "O",\ or\ "\ ".\n
+comment10.params=
+comment10.target=int\ getTies()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=mrk
+comment3.target=void\ setMark(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMark()
+comment5.params=
+comment5.target=void\ addWin()
+comment6.params=
+comment6.target=void\ addLoss()
+comment7.params=
+comment7.target=void\ addTie()
+comment8.params=
+comment8.target=int\ getWins()
+comment9.params=
+comment9.target=int\ getLosses()
+numComments=11
